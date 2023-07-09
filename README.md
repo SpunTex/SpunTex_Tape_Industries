@@ -1,2 +1,2 @@
 # SpunTex_Tape_Industries
-Manufacturing Company
+Printed-waistband-gripper-tape
